@@ -16,4 +16,6 @@ Visualize an interaction graph for every humans from an input text, along with t
 - Aayush Sharma - expecting - child
 - Arpita Khan Sharma - expecting - child
 
+Male in Blue, Female in Red
+
 ![alt text](https://raw.githubusercontent.com/Masum06/GenderViz/master/genderViz.png)
