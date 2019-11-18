@@ -1,5 +1,5 @@
 # GenderViz
-Visualize an interaction graph for every humans from an input text, along with their gender.
+This is a tool for writers to visualize gender interaction in their writing, and eliminate possible gender imbalance or bias.
 
 **Input Text:** *"Actor Aayush Sharma and wife Arpita Khan Sharma, sister of Salman Khan, are expecting their second child together."*
 
