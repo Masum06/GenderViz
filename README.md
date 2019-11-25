@@ -1,6 +1,11 @@
 # GenderViz
 This is a tool for writers to visualize gender interaction in their writing, and eliminate possible gender imbalance or bias.
 
+## Technologies
+1. Named Entity Resolution
+2. Semantic Triples
+3. Char LSTM Name to Gender prediction model
+
 **Input Text:** *"Actor Aayush Sharma and wife Arpita Khan Sharma, sister of Salman Khan, are expecting their second child together."*
 
 **Extracted Names and Associated Gender:**
