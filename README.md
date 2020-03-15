@@ -1,5 +1,10 @@
 # GenderViz
-Visualize an interaction graph for every humans from an input text, along with their gender.
+This is a tool for writers to visualize gender interaction in their writing, and eliminate possible gender imbalance or bias.
+
+## Technologies
+1. Named Entity Resolution
+2. Semantic Triples
+3. Char LSTM Name to Gender prediction model
 
 **Input Text:** *"Actor Aayush Sharma and wife Arpita Khan Sharma, sister of Salman Khan, are expecting their second child together."*
 
@@ -15,5 +20,7 @@ Visualize an interaction graph for every humans from an input text, along with t
 - Arpita Khan Sharma - is sister of - Salman Khan
 - Aayush Sharma - expecting - child
 - Arpita Khan Sharma - expecting - child
+
+Male in Blue, Female in Red
 
 ![alt text](https://raw.githubusercontent.com/Masum06/GenderViz/master/genderViz.png)
